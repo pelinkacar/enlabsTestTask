@@ -1,10 +1,10 @@
-#Test Task Information
+# Test Task Information
 
-#### In order to run the project:
+### In order to run the project:
 * Java, JDK 8+ should be installed
 * maven should be installed.
 
-###Task divided into two parts as:
+### Task divided into two parts as:
 
 * 1st - Registration Page
 * 2nd - Game Search
